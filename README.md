@@ -175,4 +175,4 @@ This project is licensed under the MIT License.
 **Punit Dhaka**
 
 * GitHub: https://github.com/punitd-source
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: (https://www.linkedin.com/in/punit-dhaka-a23940253/)
